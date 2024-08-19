@@ -13,7 +13,7 @@ A unit test in main() allows the user to define the size of the input (N) and th
 
 6) Experiment with the cut-off to insertionsort in merge. (A suitable range for cut-off values to test with could be [0-30].)
 
-###### Higher Grade 
+#### Higher Grade 
 1) Augment the code from assignment 1 so that the array is sorted in descending order.
 
 2) Compare the execution times for sorting large arrays of integers with quicksort and merge sort. 
