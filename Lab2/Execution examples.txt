@@ -1,0 +1,131 @@
+Assignment 1:Using input [1, 2, 4, 3, 5, 0]
+result:
+
+Please enter size of array: 6
+
+Please enter integers by spaces: 1 2 4 3 5 0
+[1],[2],[4],[3],[5],[0]
+[1],[2],[4],[3],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[0],[1],[2],[3],[4],[5]
+
+Array is sorted:true
+
+-----------------------------------------------------------------------------------------------
+
+Assignment 2: Using input [1, 2, 4, 3, 5, 0]
+result:
+
+Please enter size of array: 6
+
+Please enter integers by spaces: 1 2 4 3 5 0
+[1],[2],[4],[3],[5],[0]
+[1],[2],[4],[3],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[0],[1],[2],[3],[4],[5]
+Number of swaps was: 6
+
+Array is sorted :true
+
+------------------------------------------------------------------------------------------------
+
+Assignment 3: Using input [1, 2, 4, 3, 5, 0]
+result:
+
+
+Please enter size of array: 6
+
+Please enter integers by spaces: 1 2 4 3 5 0
+[[0,1],[5,0]]
+[[1,2],[5,0]]
+[[2,4],[3,3]]
+[[2,4],[5,0]]
+[[3,3],[5,0]]
+[[4,5],[5,0]]
+
+Number of inversion was: 6
+
+[1],[2],[4],[3],[5],[0]
+[1],[2],[4],[3],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[0],[1],[2],[3],[4],[5]
+Number of swaps was: 6
+
+Array is sorted :true
+
+-------------------------------------------------------------------------------------------------
+
+Assignment 4:
+
+
+
+-------------------------------------------------------------------------------------------------
+
+Assignment 5:
+result:
+
+Merge Sorting Process Begins
+Merge Sorting Process Ends
+Merge array is sorted: true
+Execution time for Merge Sorting 10000 elements: 4.1302 milliseconds
+Insertion Sorting Process Begins
+Insertion Sorting Process Ends
+Insertion array is sorted: true
+Execution time for Insertion Sorting 10000 elements: 98.4196 milliseconds
+
+-----------------------------------------------------------------------------------------------
+
+Assignment6:
+CUTOFF = 2
+
+result:
+Merge Sorting Process Begins
+Execution time for Merge Sorting: 2.6063 milliseconds
+
+-----------------------------------------------------------------------------------------------
+
+Higher grade Assignment 1: Using input [1, 2, 4, 3, 5, 0]
+result:
+
+Please enter size of array: 6
+
+Please enter integers by spaces: 1 2 4 3 5 0
+[1],[2],[4],[3],[5],[0]
+[1],[2],[4],[3],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[1],[2],[3],[4],[5],[0]
+[0],[1],[2],[3],[4],[5]
+
+[5],[4],[3],[2],[1],[0]
+Array is sorted :true
+
+----------------------------------------------------------------------------------------------
+
+Higher grade Assignment 2:
+result:
+
+Merge Sorting Process Begins
+Quick Sorting Process Ends
+Quick array is sorted: true
+Execution time for Quick Sorting 10000000 elements: 834.3392 milliseconds
+Merge Sorting Process Begins
+Merge Sorting Process Ends
+Merge array is sorted: true
+Execution time for Merge Sorting 10000000 elements: 1329.7204 milliseconds
+
+----------------------------------------------------------------------------------------------
+
+Higher grade Assignment 3:
+result:
+
+Quickmedian Sorting Process Begins
+Quickmedian Sorting Process Ends
+Quickmedian array is sorted: true
+Execution time for Quickmedian Sorting 1000000 elements: 140.0159 milliseconds
+Merge Sorting Process Begins
+Quick Sorting Process Ends
+Quick array is sorted: true
+Execution time for Quick Sorting 1000000 elements: 121.3832 milliseconds
