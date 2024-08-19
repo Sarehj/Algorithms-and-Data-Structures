@@ -13,12 +13,11 @@ public class Assignment {
    
 	public static void main(String[] args) throws Exception{
 	
-		InputStreamReader in = new InputStreamReader(System.in);
+	     InputStreamReader in = new InputStreamReader(System.in);
+	     char c;
+	     int[] a = new int[6];       //'(',')','[',']','{','}'
 	
-		char c;
-		int[] a = new int[6];       //'(',')','[',']','{','}'
-	
-		for(int i = 0; i < 6; i ++)      
+	  for(int i = 0; i < 6; i ++)      
 	    a[i] = 0;
 	
 		
